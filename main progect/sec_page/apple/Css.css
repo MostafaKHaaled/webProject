@@ -1,0 +1,13 @@
+body{background-color: #EEE}
+td{width: 300px;}
+span{font-size: 25px;color: red}
+input{margin: 20px;}
+.sub{width: 100px;height: 70px;background: #4c92c1;border-radius: 30px;font-size: 25px;color: #fff;}
+.sub:hover{background:#f80004}
+.sel{width: 250;height: 100px; border-radius: 20px;
+font-size: 18px;}
+caption{color: #000;font-family: cursive;font-size: 20px;}
+caption .h{color: #228893;font-size: 30px}
+tr{font-size: 18px}
+table{border-spacing: 0px;}
+th{font-size: 30px;color: #228893 }
